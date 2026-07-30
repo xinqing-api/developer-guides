@@ -6,6 +6,7 @@
 
 ## 最新内容
 
+- [大模型 API 超时与重试：一份可直接复用的工程指南](reliability/llm-api-timeout-retry.md)
 - [API Key 泄露应急清单：前 60 分钟应该做什么](security/api-key-leak-response.md)
 
 ## 内容方向
