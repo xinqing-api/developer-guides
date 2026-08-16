@@ -1,16 +1,18 @@
 # 忻擎 API Developer Guides
 
-面向 AI 应用开发者的大模型 API 接入、安全、稳定性与成本优化实践。
+面向 AI 应用开发者的大模型 API 接入、安全、稳定性、生产效率与成本优化实践。
 
-这里提供经过核验的开发清单、代码示例和工程教程，帮助你少踩坑、更可靠地构建 AI 应用。
+这里提供经过核验的开发清单、代码示例和工程教程，帮助你少踩坑、更可靠地构建和使用 AI 应用。
 
 ## 最新内容
 
+- [Codex + ChatGPT Plus 使用额度说明：5 小时窗口、模型选择与省额度实践](productivity/codex-plus-usage-limits.md)
 - [大模型 API 超时与重试：一份可直接复用的工程指南](reliability/llm-api-timeout-retry.md)
 - [API Key 泄露应急清单：前 60 分钟应该做什么](security/api-key-leak-response.md)
 
 ## 内容方向
 
+- Codex 与 AI 开发效率
 - API 接入与错误处理
 - Token 成本、缓存与限流
 - RAG 与上下文管理
@@ -19,7 +21,7 @@
 
 ## 适合谁
 
-- 正在接入大模型 API 的开发者
+- 正在使用 Codex 或接入大模型 API 的开发者
 - 希望降低 AI 应用成本的独立开发者与团队
 - 负责 AI 服务稳定性、安全和工程化的技术人员
 
