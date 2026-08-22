@@ -6,6 +6,7 @@
 
 ## 最新内容
 
+- [从零构造 RAG 系统：整体架构与可运行项目骨架](rag/01-architecture-and-project-skeleton.md)
 - [Codex + ChatGPT Plus 使用额度说明：5 小时窗口、模型选择与省额度实践](productivity/codex-plus-usage-limits.md)
 - [大模型 API 超时与重试：一份可直接复用的工程指南](reliability/llm-api-timeout-retry.md)
 - [API Key 泄露应急清单：前 60 分钟应该做什么](security/api-key-leak-response.md)
@@ -18,6 +19,10 @@
 - RAG 与上下文管理
 - 多模型路由与可靠性
 - API Key 与生产环境安全
+
+## 连载教程
+
+- [从零构造可上线的 RAG 系统](rag/README.md)：从数据准备、切分、Embedding、Qdrant 检索到评测与上线，每期完成一个可运行模块。
 
 ## 适合谁
 
